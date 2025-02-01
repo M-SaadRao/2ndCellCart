@@ -2615,7 +2615,7 @@ body.offcanvas-open {
 }
 .shop-list-wrapper .content-desc-wrap .content .ratings .rating-wrap::before {
   font-family: "FontAwesome";
-  content: "    ";
+  /* content: "    "; */
 }
 .shop-list-wrapper .content-desc-wrap .content .ratings .rating-wrap .star {
   position: absolute;
@@ -2631,7 +2631,7 @@ body.offcanvas-open {
   .rating-wrap
   .star::before {
   font-family: "FontAwesome";
-  content: "    ";
+  /* content: "    "; */
 }
 .shop-list-wrapper .content-desc-wrap .content .ratings .rating-num {
   font-size: 14px;
@@ -6473,7 +6473,7 @@ Pages - My Account
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
-  padding: 30px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
   -webkit-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
   -webkit-box-align: start;
@@ -6499,7 +6499,7 @@ Pages - My Account
 }
 .product .content .ratings .rating-wrap::before {
   font-family: "FontAwesome";
-  content: "    ";
+  /* content: "    "; */
 }
 .product .content .ratings .rating-wrap .star {
   position: absolute;
@@ -6510,7 +6510,7 @@ Pages - My Account
 }
 .product .content .ratings .rating-wrap .star::before {
   font-family: "FontAwesome";
-  content: "    ";
+  /* content: "    "; */
 }
 .product .content .ratings .rating-num {
   font-size: 14px;
